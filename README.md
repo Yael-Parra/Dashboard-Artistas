@@ -49,5 +49,10 @@ Este proyecto fue inspirado por la necesidad de **hacer más accesible** la info
 
 ---
 
-**¡Gracias por ver el proyecto!** 🙌  
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+## 📱 **Contacto**
+Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar mi perfil de **LinkedIn**: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼
+
+---
+
+**¡Gracias por explorar este proyecto!**  
+Si tienes alguna pregunta o sugerencia, no dudes en contactar. 🙌
