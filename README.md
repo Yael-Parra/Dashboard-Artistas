@@ -1,58 +1,58 @@
-# 🎨 **Dashboard de Pintores - Visualización en Power BI**
+# 🎨 **Painters Dashboard - Power BI Visualization**
 
-## Descripción del Proyecto
-Este proyecto tiene como objetivo **crear una visualización interactiva** en **Power BI** a partir de un **dashboard** extraído de **Kaggle**. El dataset original contenía información sobre **pintores** y sus obras, y se realizó un proceso de limpieza y ampliación de los datos para enriquecer la visualización. Además, se incorporaron elementos educativos para ofrecer un **valor diferencial** en el storytelling.
+## Project Description
+The goal of this project is to **create an interactive visualization** in **Power BI** from a **dashboard** extracted from **Kaggle**. The original dataset contained information about **painters** and their works, and a data cleaning and enrichment process was carried out to enhance the visualization. Additionally, educational elements were incorporated to provide a **differential value** in storytelling.
 
-## 🧑‍💻 **Flujo de Trabajo**
+## 🧑‍💻 **Workflow**
 
-1. **Obtención del Dataset**:
-   - Se extrajo el dataset de **Kaggle**, que contenía datos sobre pintores y sus obras.
+1. **Dataset Acquisition**:
+   - The dataset was extracted from **Kaggle**, containing data about painters and their works.
    
-2. **Limpieza de Datos**:
-   - Se utilizó **Python** para limpiar el dataset.
-   - La librería **Pandas** fue clave para **filtrar, transformar** y **reordenar** los datos.
+2. **Data Cleaning**:
+   - **Python** was used to clean the dataset.
+   - The **Pandas** library was key in **filtering, transforming**, and **rearranging** the data.
    
-3. **Ampliación de los Datos**:
-   - Utilizando **Python** y **Pandas**, se extrajeron datos adicionales desde **la web** para enriquecer el dataset.
-   - Se añadió información relevante sobre estilos artísticos, biografías y fechas de nacimiento/muerte de los pintores.
+3. **Data Enrichment**:
+   - Using **Python** and **Pandas**, additional data was extracted from **the web** to enrich the dataset.
+   - Relevant information about artistic styles, biographies, and birth/death dates of painters was added.
 
-4. **Creación de la Visualización**:
-   - Se importaron los datos limpios y enriquecidos a **Power BI**.
-   - Se diseñó un **dashboard interactivo**, mostrando:
-     - **Gráficos de tendencias** sobre estilos artísticos.
-     - **Distribución geográfica** de los pintores.
-     - **Números relevantes** sobre sus obras y la evolución del arte.
+4. **Creating the Visualization**:
+   - The cleaned and enriched data was imported into **Power BI**.
+   - An **interactive dashboard** was designed, featuring:
+     - **Trend charts** on artistic styles.
+     - **Geographical distribution** of painters.
+     - **Key figures** on their works and the evolution of art.
 
-5. **Toque Educativo**:
-   - Se añadió un **enfoque educativo** en el storytelling del dashboard para facilitar la comprensión de los datos.
-   - Se implementaron elementos visuales como **infografías** y **anécdotas** sobre artistas destacados.
+5. **Educational Touch**:
+   - An **educational approach** was added to the storytelling of the dashboard to facilitate data understanding.
+   - Visual elements such as **infographics** and **anecdotes** about prominent artists were implemented.
 
-## 🚀 **Tecnologías Utilizadas**
+## 🚀 **Technologies Used**
 
-- **Python** (para la limpieza de datos y ampliación con librerías como **Pandas**)
-- **Power BI** (para la creación de la visualización interactiva)
-- **Librerías web scraping** (para extraer datos adicionales de la web)
+- **Python** (for data cleaning and enrichment with libraries like **Pandas**)
+- **Power BI** (for creating the interactive visualization)
+- **Web scraping libraries** (for extracting additional data from the web)
 
-## 🎯 **Objetivo**
+## 🎯 **Objective**
 
-El proyecto busca crear una visualización que no solo sea **informativa**, sino también **educativa**, permitiendo a los usuarios explorar y aprender más sobre la historia del arte y sus pintores, todo dentro de un entorno **interactivo** y **visualmente atractivo**.
+The project aims to create a visualization that is not only **informative** but also **educational**, allowing users to explore and learn more about the history of art and its painters, all within an **interactive** and **visually appealing** environment.
 
-## 📊 **Impacto y Resultados**
+## 📊 **Impact and Results**
 
-- **Visualización intuitiva** con **gráficos interactivos** que permiten al usuario explorar datos.
-- **Ampliación de información** de la web para enriquecer la experiencia.
-- **Toque educativo** que diferencia este proyecto de otros dashboards puramente informativos.
+- **Intuitive visualization** with **interactive charts** that allow the user to explore data.
+- **Enrichment of information** from the web to enhance the experience.
+- **Educational touch** that differentiates this project from other purely informational dashboards.
 
-## 👩‍🎨 **Inspiración y Valores**
+## 👩‍🎨 **Inspiration and Values**
 
-Este proyecto fue inspirado por la necesidad de **hacer más accesible** la información sobre arte y pintura a un público amplio, dándole un **valor educativo**. Además, fue diseñado con el propósito de **fomentar la inclusión** y la **equidad**, promoviendo la educación en tecnología.
+This project was inspired by the need to **make art and painting information more accessible** to a wide audience, giving it an **educational value**. Furthermore, it was designed with the goal of **promoting inclusion** and **equity**, fostering education in technology.
 
 ---
 
-## 📱 **Contacto**
-Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar mi perfil de **LinkedIn**: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼
+## 📱 **Contact**
+If you would like to connect or learn more about this project, feel free to visit my **LinkedIn** profile: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼
 
 ---
 
-**¡Gracias por explorar este proyecto!**  
-Si tienes alguna pregunta o sugerencia, no dudes en contactar. 🙌
+**Thank you for exploring this project!**  
+If you have any questions or suggestions, feel free to reach out. 🙌
